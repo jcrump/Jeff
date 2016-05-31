@@ -1,0 +1,10 @@
+C:\Users\jeffm_000\Source\Repos\CS-Tabbed-Web-Browser\CS Tabbed Web Browser\bin\Debug\CS Tabbed Web Browser.exe.config
+C:\Users\jeffm_000\Source\Repos\CS-Tabbed-Web-Browser\CS Tabbed Web Browser\bin\Debug\CS Tabbed Web Browser.exe
+C:\Users\jeffm_000\Source\Repos\CS-Tabbed-Web-Browser\CS Tabbed Web Browser\bin\Debug\CS Tabbed Web Browser.pdb
+C:\Users\jeffm_000\Source\Repos\CS-Tabbed-Web-Browser\CS Tabbed Web Browser\obj\Debug\CS Tabbed Web Browser.csprojResolveAssemblyReference.cache
+C:\Users\jeffm_000\Source\Repos\CS-Tabbed-Web-Browser\CS Tabbed Web Browser\obj\Debug\CS_Tabbed_Web_Browser.MainWindow.resources
+C:\Users\jeffm_000\Source\Repos\CS-Tabbed-Web-Browser\CS Tabbed Web Browser\obj\Debug\CS_Tabbed_Web_Browser.OptionsDialogue.resources
+C:\Users\jeffm_000\Source\Repos\CS-Tabbed-Web-Browser\CS Tabbed Web Browser\obj\Debug\CS_Tabbed_Web_Browser.Properties.Resources.resources
+C:\Users\jeffm_000\Source\Repos\CS-Tabbed-Web-Browser\CS Tabbed Web Browser\obj\Debug\CS Tabbed Web Browser.csproj.GenerateResource.Cache
+C:\Users\jeffm_000\Source\Repos\CS-Tabbed-Web-Browser\CS Tabbed Web Browser\obj\Debug\CS Tabbed Web Browser.exe
+C:\Users\jeffm_000\Source\Repos\CS-Tabbed-Web-Browser\CS Tabbed Web Browser\obj\Debug\CS Tabbed Web Browser.pdb
